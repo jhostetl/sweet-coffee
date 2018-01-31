@@ -3,4 +3,4 @@ def add_water(coffee_ins):
 
 print("ok")
 
-print("drink class branch")
+print("brew methods branch")
